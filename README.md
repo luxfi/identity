@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="identity" width="880"></p>
+
 # Lux Network Identity
 
 **L0 Settlement for the AI Economy.**
